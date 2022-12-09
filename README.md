@@ -17,4 +17,11 @@ To Read More About This App Everything Covered
 In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4QY-9esEKy/view?usp=share_link).
 
 
+## 🦾 Features
+- User-Friendly Android Tour-Guide Application For Tourists And Citizens.
+- Detect The Statue's Face Through A Mobile Camera And Recognize It.
+- Display An Animation Video Of The Statue Representing Itself After Statue Recognition.
+- Search For Information About Any Statue Using The Name Of The Statue.
+- The application help the tourists to know everything about the history of statues in an interesting way.
+
 
