@@ -28,12 +28,12 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
 - Increase The Number Of Statues That The Application Can Recognize
 
 ### 📱 App Screens
- - </B> ***Onboarding Screen*** ( virtual unboxing of application )
+ - </B> **Onboarding Screen** ( virtual unboxing of application )
    - Tell User How To Use Features Of The Application In Three Steps.
    
    ![Onboarding Screen](https://user-images.githubusercontent.com/71784734/206780391-312f3e96-4efc-40c7-b2f5-ffa54ee973e9.png)
    
- - </B> ***Home Screen***
+ - </B> **Home Screen**
    - Our application contains three options to help the user to know information about the statue
      - #option 1 </B> ( Realtime Face Detection ) 
        - While touring the museum, the user can use this option and point the phone's camera at the statue to identify it, and then a video of this statue will appear.
@@ -45,6 +45,10 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
    - Our application supports the Arabic language and the English language, and the language can be changed through the options menu
       
    ![Home screen](https://user-images.githubusercontent.com/71784734/206787706-69143be3-8692-4d3c-9ad9-4b0c3fb25f83.png)
+- </B> **Realtime Face Detection Screen**
+  - On this screen, after pointing the mobile camera at the face of the statue, a box will appear on the face of the statue containing the name of the statue, and then if the user presses the confirmation button, a video of the statue speaking about itself will appear to the user.
 
+
+  ![detection1](https://user-images.githubusercontent.com/71784734/206791895-ca0e80c9-66da-4331-99cc-10c3ae69c9f1.png)
 
 
