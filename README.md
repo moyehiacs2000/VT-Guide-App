@@ -60,3 +60,17 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
 
 ![kings2](https://user-images.githubusercontent.com/71784734/206798164-6296cb4a-f178-4d12-b5db-3b577bd163de.png)
 
+- </B> **Search Screen**
+  - On this screen, the user can search for the statue using the name
+
+
+![Search](https://user-images.githubusercontent.com/71784734/206799187-03a1768c-26ec-469f-9643-882761a8c959.png)
+
+- </B> **Instructions Dialog**
+  - This Dialog Contains Some instructions that help the user to use the application easily
+
+![instructions screen](https://user-images.githubusercontent.com/71784734/206799987-5d87b991-36ed-4e08-9b71-7cb25db521c2.png)
+
+
+
+
