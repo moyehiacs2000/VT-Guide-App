@@ -37,6 +37,9 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
    - Our application contains three options to help the user to know information about the statue
      - #option 1 </B> ( Realtime Face Detection ) 
        - While touring the museum, the user can use this option and point the phone's camera at the statue to identify it, and then a video of this statue will appear.
-
+     - #option 2 </B> ( Realtime Face Detection ) 
+       - With this option, the app can recognize the statue from a photo in the user's gallery, and then a video of that statue will appear.
+     - #option 3 </B> ( Recommended Statues )
+       - Through this option, We show the most important and famous statues to the user to read information about them and watch their video
 
 
