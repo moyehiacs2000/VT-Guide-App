@@ -32,6 +32,10 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
    - Tell User How To Use Features Of The Application In Three Steps.
    
    ![Onboarding Screen](https://user-images.githubusercontent.com/71784734/206780391-312f3e96-4efc-40c7-b2f5-ffa54ee973e9.png)
+   
+ -</B> Home Screen
+   - Our application contains three options to help the user to know information about the statue
+     - #option 1 </B> ( Realtime Face Detection ) : While touring the museum, the user can use this option and point the phone's camera at the statue to identify it, and then a video of this statue will appear.
 
 
 
