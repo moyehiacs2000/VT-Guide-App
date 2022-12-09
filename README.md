@@ -24,4 +24,7 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
 - Search For Information About Any Statue Using The Name Of The Statue.
 - The application help the tourists to know everything about the history of statues in an interesting way.
 
+### 🚧 Work in progress
+- Increase The Number Of Statues That The Application Can Recognize
+
 
