@@ -4,13 +4,13 @@
 
 # Virtual Tour Guide
 
-In a narrow definition, deepfake (stemming from “deep learning” and “fake”) is 
-created by techniques that can superimpose face images of a target person onto a 
-video of a source person to make a video of the target person doing or saying 
-things the source person does. Deepfake technology can seamlessly stitch anyone 
-in the world into a video or photo they never actually participated in.
-Recently, we found that this technology was only used for fun and entertainment, 
-so we thought to use it for something useful. Hence the idea of using it in 
-museums, archaeological sites, as tourist guide to make the statues talk and 
-represent themselves virtually and tell their entire history (Name, Dynast, Their 
-achievements, etc.)
+This App will help a large group of users who are interested in visiting museums 
+and archaeological sites and help them view the existing artifacts in an interesting 
+way and know all their history and origins by showing a video embodying that 
+artifact or statue by talking about himself and his history as well as showing him a 
+lot of written information belonging to the statue.
+As well as helping the tourists to identify the Egyptian statues easily in interesting 
+way with no cost for tourist guide.
+
+
+
