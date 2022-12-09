@@ -28,7 +28,9 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
 - Increase The Number Of Statues That The Application Can Recognize
 
 ### 📱 App Screens
- - </B>Onboarding Screen
-   - **Help the user to use the functions of the application in three steps
+ - </B>Onboarding Screen ( virtual unboxing of application )
+   - Tell User How To Use Features Of The Application In Three Steps.
+    ![Onboarding Screen](https://user-images.githubusercontent.com/71784734/206780391-312f3e96-4efc-40c7-b2f5-ffa54ee973e9.png)
+
 
 
