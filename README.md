@@ -41,8 +41,10 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
        - With this option, the app can recognize the statue from a photo in the user's gallery, and then a video of that statue will appear.
      - #option 3 </B> ( Recommended Statues )
        - Through this option, We show the most important and famous statues to the user to read information about them and watch their video
+       
+   - Our application supports the Arabic language and the English language, and the language can be changed through the options menu
       
-      ![Home screen](https://user-images.githubusercontent.com/71784734/206787706-69143be3-8692-4d3c-9ad9-4b0c3fb25f83.png)
+   ![Home screen](https://user-images.githubusercontent.com/71784734/206787706-69143be3-8692-4d3c-9ad9-4b0c3fb25f83.png)
 
 
 
