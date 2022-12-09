@@ -37,7 +37,7 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
    - Our application contains three options to help the user to know information about the statue
      - #option 1 </B> ( Realtime Face Detection ) 
        - While touring the museum, the user can use this option and point the phone's camera at the statue to identify it, and then a video of this statue will appear.
-     - #option 2 </B> ( Realtime Face Detection ) 
+     - #option 2 </B> ( Local Storage Face Detection ) 
        - With this option, the app can recognize the statue from a photo in the user's gallery, and then a video of that statue will appear.
      - #option 3 </B> ( Recommended Statues )
        - Through this option, We show the most important and famous statues to the user to read information about them and watch their video
@@ -50,5 +50,13 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
 
 
   ![detection1](https://user-images.githubusercontent.com/71784734/206791895-ca0e80c9-66da-4331-99cc-10c3ae69c9f1.png)
+  
+  
+- </B> **Statue Info Screen**
+  - On this screen, we display information about the statue and its place in the museum, and a video of the statue speaking in Arabic or English, according to the user's choice.
 
+![kings1](https://user-images.githubusercontent.com/71784734/206798147-66ac0002-feb7-4ce0-8817-75560f279cf0.png)
+
+
+![kings2](https://user-images.githubusercontent.com/71784734/206798164-6296cb4a-f178-4d12-b5db-3b577bd163de.png)
 
