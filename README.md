@@ -27,7 +27,7 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
 ### 🚧 Work in progress
 - Increase The Number Of Statues That The Application Can Recognize
 
-# 📱 App Screens
+### 📱 App Screens
 
 
 
