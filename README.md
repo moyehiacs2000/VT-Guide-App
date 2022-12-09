@@ -35,7 +35,8 @@ In Our [documentation](https://drive.google.com/file/d/1ULFf1eqJcEFW7-EODw0_sv4Q
    
  -</B> Home Screen
    - Our application contains three options to help the user to know information about the statue
-     - #option 1 </B> ( Realtime Face Detection ) : While touring the museum, the user can use this option and point the phone's camera at the statue to identify it, and then a video of this statue will appear.
+     - #option 1 </B> ( Realtime Face Detection ) 
+       - While touring the museum, the user can use this option and point the phone's camera at the statue to identify it, and then a video of this statue will appear.
 
 
 
